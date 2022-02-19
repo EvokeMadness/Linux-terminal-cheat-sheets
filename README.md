@@ -37,3 +37,8 @@ cd /home/allie/
 ```
 cd ~
 ```
+
+**Make an application or program executable**, make '[FreeCAD](https://www.freecadweb.org/)' [AppImage](https://appimage.org/) file executable.
+```
+sudo chmod +x FreeCAD.AppImage
+```
