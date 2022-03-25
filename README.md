@@ -1,5 +1,5 @@
 # linux-terminal-emulator-cheat-sheets
-A cheat sheet of Linux terminal commands that I find essential for beginner Linux users.
+A cheat sheet of Linux terminal commands for Debian and Ubuntu users. These commands are either frequently used or essential for beginners.
 
 ## Commands
 
@@ -28,7 +28,7 @@ cd Documents/
 cd ..
 ```
 
-**Change to specific directory**, path: /home/allie/
+**Change to specific directory**, /home/allie/
 ```
 cd /home/allie/
 ```
