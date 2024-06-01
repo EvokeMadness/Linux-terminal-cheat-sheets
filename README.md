@@ -1,4 +1,4 @@
-# linux-terminal-cheat-sheets
+# Linux-terminal-cheat-sheets
 A cheat sheet of Linux terminal commands for Debian and Ubuntu users. These commands are either frequently used or essential for beginners.
 
 ## Commands
